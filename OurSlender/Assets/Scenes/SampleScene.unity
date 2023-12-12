@@ -765,7 +765,7 @@ Light:
   serializedVersion: 10
   m_Type: 1
   m_Shape: 0
-  m_Color: {r: 0.101960786, g: 0.12941177, b: 0.25490198, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 0.6
   m_Range: 10
   m_SpotAngle: 30
@@ -1489,7 +1489,7 @@ GameObject:
   - component: {fileID: 1503606455}
   - component: {fileID: 1503606454}
   m_Layer: 0
-  m_Name: Player
+  m_Name: ' Beta Player'
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
