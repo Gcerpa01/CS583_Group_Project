@@ -22,7 +22,7 @@ AssetImportWorker1
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-59424
+60626
 Successfully changed project path to: /Users/gcerpa/git/CS583_Group_Project/OurSlender
 /Users/gcerpa/git/CS583_Group_Project/OurSlender
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -54,11 +54,11 @@ Successfully changed project path to: /Users/gcerpa/git/CS583_Group_Project/OurS
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [8157667008] Host "[IP] 192.168.1.10 [Port] 0 [Flags] 2 [Guid] 3227924314 [EditorId] 3227924314 [Version] 1048832 [Id] OSXEditor(0,Gerardos-MacBook-Pro-2.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [8157667008] Host "[IP] 192.168.1.10 [Port] 0 [Flags] 2 [Guid] 45672770 [EditorId] 45672770 [Version] 1048832 [Id] OSXEditor(0,Gerardos-MacBook-Pro-2.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [8157667008] Host "[IP] 192.168.1.10 [Port] 0 [Flags] 2 [Guid] 3227924314 [EditorId] 3227924314 [Version] 1048832 [Id] OSXEditor(0,Gerardos-MacBook-Pro-2.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [8157667008] Host "[IP] 192.168.1.10 [Port] 0 [Flags] 2 [Guid] 45672770 [EditorId] 45672770 [Version] 1048832 [Id] OSXEditor(0,Gerardos-MacBook-Pro-2.local) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 66.21 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 70.00 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.17f1 (3e8111cac19d)
 [Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.3.17f1/Unity.app/Contents/Resources/UnitySubsystems
@@ -73,37 +73,37 @@ Initialize mono
 Mono path[0] = '/Applications/Unity/Hub/Editor/2021.3.17f1/Unity.app/Contents/Managed'
 Mono path[1] = '/Applications/Unity/Hub/Editor/2021.3.17f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit-macos'
 Mono config path = '/Applications/Unity/Hub/Editor/2021.3.17f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56634
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56308
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: /Applications/Unity/Hub/Editor/2021.3.17f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.000561 seconds.
+Registered in 0.000457 seconds.
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 70.02 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 71.71 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.381 seconds
+- Completed reload, in  0.388 seconds
 Domain Reload Profiling:
-	ReloadAssembly (381ms)
-		BeginReloadAssembly (28ms)
+	ReloadAssembly (389ms)
+		BeginReloadAssembly (31ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (0ms)
-		EndReloadAssembly (290ms)
-			LoadAssemblies (28ms)
+		EndReloadAssembly (291ms)
+			LoadAssemblies (31ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (66ms)
+			SetupTypeCache (69ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (19ms)
-			SetupLoadedEditorAssemblies (179ms)
+			RebuildScriptCaches (20ms)
+			SetupLoadedEditorAssemblies (175ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (70ms)
+				RefreshPlugins (72ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (80ms)
+				ProcessInitializeOnLoadAttributes (74ms)
 				ProcessInitializeOnLoadMethodAttributes (25ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -111,37 +111,37 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001939 seconds.
+Registered in 0.001527 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image /Users/gcerpa/git/CS583_Group_Project/OurSlender/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image /Users/gcerpa/git/CS583_Group_Project/OurSlender/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.42 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.627 seconds
+- Completed reload, in  0.606 seconds
 Domain Reload Profiling:
-	ReloadAssembly (627ms)
+	ReloadAssembly (607ms)
 		BeginReloadAssembly (57ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (17ms)
-		EndReloadAssembly (502ms)
-			LoadAssemblies (46ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (484ms)
+			LoadAssemblies (29ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (176ms)
-			ReleaseScriptCaches (1ms)
+			SetupTypeCache (178ms)
+			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (218ms)
+			SetupLoadedEditorAssemblies (215ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (2ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (0ms)
 				BeforeProcessingInitializeOnLoad (57ms)
-				ProcessInitializeOnLoadAttributes (143ms)
-				ProcessInitializeOnLoadMethodAttributes (15ms)
+				ProcessInitializeOnLoadAttributes (142ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
 				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -150,13 +150,13 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launching external process: /Applications/Unity/Hub/Editor/2021.3.17f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3377 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 25 unused Assets / (297.3 KB). Loaded Objects now: 3857.
-Memory consumption went from 125.2 MB to 124.9 MB.
-Total: 2.490250 ms (FindLiveObjects: 0.101833 ms CreateObjectMapping: 0.038584 ms MarkObjects: 2.289041 ms  DeleteObjects: 0.060083 ms)
+Memory consumption went from 125.5 MB to 125.2 MB.
+Total: 2.426458 ms (FindLiveObjects: 0.129042 ms CreateObjectMapping: 0.043083 ms MarkObjects: 2.194666 ms  DeleteObjects: 0.059000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -170,185 +170,113 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 501190.190077 seconds.
-  path: Assets/tree_pack_1.1/models/tree22.fbx
-  artifactKey: Guid(327bfc46dd20d420c83e60cdcbb4cad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tree_pack_1.1/models/tree22.fbx using Guid(327bfc46dd20d420c83e60cdcbb4cad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '463ef28ea4bd17c65915746f3e65b746') in 0.810547 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000037 seconds.
-  path: Assets/tree_pack_1.1/models/bush08.fbx
-  artifactKey: Guid(7477b75adac254fdca9f685d337df888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/tree_pack_1.1/models/bush08.fbx using Guid(7477b75adac254fdca9f685d337df888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21834051cf30649b814cd6cab426497') in 0.009086 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 108.922935 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car.png
-  artifactKey: Guid(9b1fdd52bbcb049d69db6c1e976deca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car.png using Guid(9b1fdd52bbcb049d69db6c1e976deca1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '184be9a48844cacdab5b1c5208e506b2') in 0.626431 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000045 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_snowcovered.png
-  artifactKey: Guid(86f53d67f08124b188f3515f3a5df87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_snowcovered.png using Guid(86f53d67f08124b188f3515f3a5df87d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20a10ecc8bae211a0254a6b66628fd23') in 0.004525 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000107 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_gray.png
-  artifactKey: Guid(dcf12b6015ac64f09b605c586a5020c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_gray.png using Guid(dcf12b6015ac64f09b605c586a5020c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b549d6fe0a2cac5b77d4341c5be68d28') in 0.006093 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000053 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_red.png
-  artifactKey: Guid(f97ab6d185d5e416cb0d4f6d5d40b3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_red.png using Guid(f97ab6d185d5e416cb0d4f6d5d40b3d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beeed39cbf24bef7a23b33016025654f') in 0.005263 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_snow.png
-  artifactKey: Guid(fa3e3dce90e7244458f8fbd3e201c370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_snow.png using Guid(fa3e3dce90e7244458f8fbd3e201c370) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd742ff38781f3d656f97705e9ad6f9d5') in 0.005180 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_snowcovered_gray.png
-  artifactKey: Guid(4c0582784665547e58e24ffd569aecd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_snowcovered_gray.png using Guid(4c0582784665547e58e24ffd569aecd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '256b4c66cd2a9a74b1af7af8d0388823') in 0.005833 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_snowcovered_red.png
-  artifactKey: Guid(cd88f9b0eccbc4e48b6f6a2485e9bb1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_snowcovered_red.png using Guid(cd88f9b0eccbc4e48b6f6a2485e9bb1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '020d4d51451a2885f9468b597d4e525a') in 0.005472 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000066 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_snow_gray.png
-  artifactKey: Guid(fa12b28aa51b5416e9a492e8a1c8b871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_snow_gray.png using Guid(fa12b28aa51b5416e9a492e8a1c8b871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '206a722f89524e7315e80fa53be9f18e') in 0.004452 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_snow_blue.png
-  artifactKey: Guid(c4498cebfed564a409f0ee841931775f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_snow_blue.png using Guid(c4498cebfed564a409f0ee841931775f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab39c320a5f431cb347aec16726d363f') in 0.004296 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000057 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_snowcovered_blue.png
-  artifactKey: Guid(e81f55b836c6941b59fc5cd0c398df25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_snowcovered_blue.png using Guid(e81f55b836c6941b59fc5cd0c398df25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee276862afe57c647712b9d7ebc0616c') in 0.003890 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000063 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_blue.png
-  artifactKey: Guid(60066012fa0da41ef9c630e1915d4599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 01/car_blue.png using Guid(60066012fa0da41ef9c630e1915d4599) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b2dcecb2a68b4210e0181c5ae5724f9') in 0.004767 seconds 
+  Time since last request: 509451.338810 seconds.
+  path: Assets/Cabañas/Cabañas.dae
+  artifactKey: Guid(37e22d9b4175042f1a9862cb74423714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cabañas/Cabañas.dae using Guid(37e22d9b4175042f1a9862cb74423714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3c4008b3929c4ed5ff4f55e0f916243') in 0.275730 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001818 seconds.
+Registered in 0.001402 seconds.
 Begin MonoManager ReloadAssembly
-Thread 0x289f87000 may have been prematurely finalized
+Thread 0x28eca3000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/gcerpa/git/CS583_Group_Project/OurSlender/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/gcerpa/git/CS583_Group_Project/OurSlender/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.672 seconds
+Domain Reload Profiling:
+	ReloadAssembly (672ms)
+		BeginReloadAssembly (109ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (61ms)
+		EndReloadAssembly (504ms)
+			LoadAssemblies (31ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (191ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (210ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (44ms)
+				ProcessInitializeOnLoadAttributes (143ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3370 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (21.9 KB). Loaded Objects now: 3904.
+Memory consumption went from 131.7 MB to 131.7 MB.
+Total: 2.649375 ms (FindLiveObjects: 0.161542 ms CreateObjectMapping: 0.045958 ms MarkObjects: 2.410792 ms  DeleteObjects: 0.029875 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001570 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x17ea87000 may have been prematurely finalized
 Symbol file LoadedFromMemory doesn't match image /Users/gcerpa/git/CS583_Group_Project/OurSlender/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image /Users/gcerpa/git/CS583_Group_Project/OurSlender/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.662 seconds
+- Completed reload, in  0.634 seconds
 Domain Reload Profiling:
-	ReloadAssembly (663ms)
-		BeginReloadAssembly (95ms)
+	ReloadAssembly (634ms)
+		BeginReloadAssembly (76ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (46ms)
-		EndReloadAssembly (506ms)
-			LoadAssemblies (35ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (197ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (207ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (43ms)
-				ProcessInitializeOnLoadAttributes (141ms)
-				ProcessInitializeOnLoadMethodAttributes (16ms)
-				AfterProcessingInitializeOnLoad (1ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (2ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.98 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3370 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 18 unused Assets / (22.0 KB). Loaded Objects now: 3873.
-Memory consumption went from 135.5 MB to 135.5 MB.
-Total: 2.632666 ms (FindLiveObjects: 0.166458 ms CreateObjectMapping: 0.047792 ms MarkObjects: 2.394333 ms  DeleteObjects: 0.023292 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001784 seconds.
-Begin MonoManager ReloadAssembly
-Thread 0x2818c7000 may have been prematurely finalized
-Symbol file LoadedFromMemory doesn't match image /Users/gcerpa/git/CS583_Group_Project/OurSlender/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/gcerpa/git/CS583_Group_Project/OurSlender/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.652 seconds
-Domain Reload Profiling:
-	ReloadAssembly (653ms)
-		BeginReloadAssembly (91ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (40ms)
-		EndReloadAssembly (501ms)
-			LoadAssemblies (35ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (499ms)
+			LoadAssemblies (30ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
 			SetupTypeCache (193ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (205ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (207ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
 				BeforeProcessingInitializeOnLoad (44ms)
-				ProcessInitializeOnLoadAttributes (139ms)
+				ProcessInitializeOnLoadAttributes (140ms)
 				ProcessInitializeOnLoadMethodAttributes (15ms)
 				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (3ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.85 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3370 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 18 unused Assets / (21.9 KB). Loaded Objects now: 3876.
-Memory consumption went from 135.5 MB to 135.5 MB.
-Total: 2.726584 ms (FindLiveObjects: 0.130917 ms CreateObjectMapping: 0.043791 ms MarkObjects: 2.526667 ms  DeleteObjects: 0.024625 ms)
+Unloading 18 unused Assets / (22.0 KB). Loaded Objects now: 3907.
+Memory consumption went from 131.7 MB to 131.7 MB.
+Total: 2.549709 ms (FindLiveObjects: 0.164166 ms CreateObjectMapping: 0.043959 ms MarkObjects: 2.325542 ms  DeleteObjects: 0.015125 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -362,287 +290,137 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 168.601884 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 04/car4.png
-  artifactKey: Guid(e1606bcf0aa754199ad5878bbd3b4785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 04/car4.png using Guid(e1606bcf0aa754199ad5878bbd3b4785) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '294a5c101b21c7d454f949bc4f7cde80') in 0.034437 seconds 
+  Time since last request: 535.124915 seconds.
+  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Shadow (3D)/car_shadow_alpha.png
+  artifactKey: Guid(4a24d5dc9450140b08d43d3fa2707c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Shadow (3D)/car_shadow_alpha.png using Guid(4a24d5dc9450140b08d43d3fa2707c07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4498b65bb93cf4c03aef70d01ae2c04e') in 0.500833 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000096 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 04/car4_grey.png
-  artifactKey: Guid(06d5142755d58491cb538ca77a345c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 04/car4_grey.png using Guid(06d5142755d58491cb538ca77a345c10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '528c6ffb74f574a9f4694d1c90cc71cb') in 0.004662 seconds 
+  Time since last request: 0.000037 seconds.
+  path: Assets/tree_pack_1.1/textures/bush08.png
+  artifactKey: Guid(d2f3daae49be74e42b4d3a352d71d48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tree_pack_1.1/textures/bush08.png using Guid(d2f3daae49be74e42b4d3a352d71d48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0718f16243cd181a87fd4c34ce8fbad7') in 0.004590 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 04/car4_lightorange.png
-  artifactKey: Guid(2b02c843b1faf4a628ea0f27632a5466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 04/car4_lightorange.png using Guid(2b02c843b1faf4a628ea0f27632a5466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e191794a5a8205003a3a538e9209ec6') in 0.004441 seconds 
+  Time since last request: 0.000151 seconds.
+  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 03/car3_red.png
+  artifactKey: Guid(6aee7152804b147a9a91c2eaf9a73f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 03/car3_red.png using Guid(6aee7152804b147a9a91c2eaf9a73f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3b214148f7be3b19d76b2dffa2b6b80') in 0.005788 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000043 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 04/car4_lightgrey.png
-  artifactKey: Guid(0fbc8a35ed9994039b5d6e30e231688f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 04/car4_lightgrey.png using Guid(0fbc8a35ed9994039b5d6e30e231688f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac4c915647e96e8da2479e7127e51b9e') in 0.004698 seconds 
+  Time since last request: 0.000047 seconds.
+  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 02/car2_red.png
+  artifactKey: Guid(11b8b4216cba041359bb14753e093036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 02/car2_red.png using Guid(11b8b4216cba041359bb14753e093036) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '907870d55ca6a865dc28aad300dec845') in 0.004856 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 2.641816 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 07/car7.png
-  artifactKey: Guid(dc964156ce25b4dc696bb0a683caf1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 07/car7.png using Guid(dc964156ce25b4dc696bb0a683caf1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f83a10d7aeab15c383be007cea29269d') in 0.007337 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000059 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 07/car7_black.png
-  artifactKey: Guid(a8513193a3760450997b708abda108e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 07/car7_black.png using Guid(a8513193a3760450997b708abda108e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fb3daec02a742fa13efa2f83933c38e') in 0.005216 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 07/car7_red.png
-  artifactKey: Guid(2b9553c0e9e1243fea1988183d4479e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 07/car7_red.png using Guid(2b9553c0e9e1243fea1988183d4479e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5f976de6530aa6609e8d7ad3afeb1aa') in 0.005183 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000054 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 07/car7_grey.png
-  artifactKey: Guid(b86e2e655ae4346b7b7714c536113181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 07/car7_grey.png using Guid(b86e2e655ae4346b7b7714c536113181) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fe087ed167a0707399922687ddecee3') in 0.004567 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 259.145326 seconds.
-  path: Assets/Rocas/Rock low poly.dae
-  artifactKey: Guid(a47ea3a399bc94a3a891d2ec9930684b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Rocas/Rock low poly.dae using Guid(a47ea3a399bc94a3a891d2ec9930684b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '943138ad91a241cbf16f57094866bb18') in 0.887273 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 55.369872 seconds.
-  path: Assets/Cabañas/doors_wood_doors_0012_01_s.jpg
-  artifactKey: Guid(646db0d5f4a0a45f6932b71d11ffd1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cabañas/doors_wood_doors_0012_01_s.jpg using Guid(646db0d5f4a0a45f6932b71d11ffd1d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e72115d4ed3f8c07d0838822f2f0d3') in 0.154263 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000054 seconds.
-  path: Assets/Cabañas/roof_slates_02_diff_1k.jpg
-  artifactKey: Guid(06ffa578ce16047a5823b803f84804a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cabañas/roof_slates_02_diff_1k.jpg using Guid(06ffa578ce16047a5823b803f84804a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9007423f510b8745e5ebbf477b3e025d') in 0.004680 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000057 seconds.
-  path: Assets/Cabañas/old_planks_02_diff_1k.jpg
-  artifactKey: Guid(11272677d98bd48aaa74057df8cf0d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cabañas/old_planks_02_diff_1k.jpg using Guid(11272677d98bd48aaa74057df8cf0d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3aef0715c5882493b62fc978559c5840') in 0.005351 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000059 seconds.
-  path: Assets/Cabañas/planks_brown_10_diff_1k.jpg
-  artifactKey: Guid(958f01c953fd54afd92399908b4f1290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Cabañas/planks_brown_10_diff_1k.jpg using Guid(958f01c953fd54afd92399908b4f1290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d56628898df17a79d11ebac4ecc9418') in 0.005083 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 688.389701 seconds.
-  path: Assets/Maquinas/M (2).png
-  artifactKey: Guid(4adfb0d1f9c584f52afa9b6a6d4d9171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maquinas/M (2).png using Guid(4adfb0d1f9c584f52afa9b6a6d4d9171) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9ce7a3a699497877bc1544b0d63d12f') in 0.005271 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/Maquinas/Maquinas.dae
-  artifactKey: Guid(79f8ad307f3974931837453732346547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Maquinas/Maquinas.dae using Guid(79f8ad307f3974931837453732346547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '778a81adfaf3ae18586472bb212d8e2d') in 0.108985 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 266.429759 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 05/car5.png
-  artifactKey: Guid(e03be9b51107f45449815f0326b6cdb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 05/car5.png using Guid(e03be9b51107f45449815f0326b6cdb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38ffb95f1ccac8bb07951563c37b1c3f') in 0.008890 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000060 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 05/car5_grey.png
-  artifactKey: Guid(93d7d1f0ead54403da85c8beb82c481f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 05/car5_grey.png using Guid(93d7d1f0ead54403da85c8beb82c481f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f818a37f7306c5bdd1a780f06df24a62') in 0.005819 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000087 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 05/car5_taxi.png
-  artifactKey: Guid(fb9984b1441f349139112251a239d99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 05/car5_taxi.png using Guid(fb9984b1441f349139112251a239d99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46fe534ca8db11faeb0593c29fcd161d') in 0.005706 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000058 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 05/Car5_Police.obj
-  artifactKey: Guid(ec7df1092404e410793c9f549e660eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 05/Car5_Police.obj using Guid(ec7df1092404e410793c9f549e660eab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd4efb94f1bf6dc2f937bc5a2ee2c0f2') in 0.452061 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 243.380426 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car2_Engine_Start_Up.ogg
-  artifactKey: Guid(6a0a47e770bba4c1db25e432d3acab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car2_Engine_Start_Up.ogg using Guid(6a0a47e770bba4c1db25e432d3acab28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1173a0ac8bf03bf77591feab9b7b8c05') in 0.227208 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000062 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car_Horn.ogg
-  artifactKey: Guid(d8b81e1d347634414a38fd6060deda81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car_Horn.ogg using Guid(d8b81e1d347634414a38fd6060deda81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '790dcd16ab8645bd719f87aac4d725ec') in 0.004863 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car_Door_Close.ogg
-  artifactKey: Guid(2fd2cae1b77694065b1206a0498f9d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car_Door_Close.ogg using Guid(2fd2cae1b77694065b1206a0498f9d1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8b4c4802d1429eea9201019570f7297') in 0.006531 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car_Hood_Open.ogg
-  artifactKey: Guid(3fb3cc386f9e04412aef24dca9a4c311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car_Hood_Open.ogg using Guid(3fb3cc386f9e04412aef24dca9a4c311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'febda16ad64bef15aeece975b19c377a') in 0.006656 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000056 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car_Trunk_Open.ogg
-  artifactKey: Guid(8594a6111265f4d00877c7710d451cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car_Trunk_Open.ogg using Guid(8594a6111265f4d00877c7710d451cc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39791b645c84978ebd925059362b074f') in 0.007070 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car_Parking_Brake.ogg
-  artifactKey: Guid(72f4e9e1d480242d893271b5a851b405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car_Parking_Brake.ogg using Guid(72f4e9e1d480242d893271b5a851b405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08381a51cebe3d84aa6aef97d9155d0a') in 0.006470 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car_Engine_Turning_Off.ogg
-  artifactKey: Guid(fb931f919d3ed4302a6ff7d61fa16852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car_Engine_Turning_Off.ogg using Guid(fb931f919d3ed4302a6ff7d61fa16852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '082937cae6956a16262554ed1b2db06f') in 0.006113 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000041 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car_Engine_Loop_2.ogg
-  artifactKey: Guid(a4a4deca7d09b4bfd8a681d42851993c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Sound effects/Car_Engine_Loop_2.ogg using Guid(a4a4deca7d09b4bfd8a681d42851993c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dba1076ea25a1ab91ec7ed13d170e615') in 0.008526 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.313966 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 08/Car8.png
-  artifactKey: Guid(484abfc9f5987404ba2e535a616e6663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 08/Car8.png using Guid(484abfc9f5987404ba2e535a616e6663) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1cd15008898c341aa645e225be4a2f9') in 0.008277 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000052 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 08/Car8_mail.png
-  artifactKey: Guid(de7f14595b89f4afca8d21d145552d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 08/Car8_mail.png using Guid(de7f14595b89f4afca8d21d145552d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff1979c0a4c0132c216a609a61ac7e29') in 0.006077 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 08/Car8_grey.png
-  artifactKey: Guid(373178b5b0ec54f069311667a7c45199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 08/Car8_grey.png using Guid(373178b5b0ec54f069311667a7c45199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad395a7585ca9e4aac99d6556b8450d6') in 0.005991 seconds 
+  Time since last request: 0.000053 seconds.
+  path: Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 03/car3_yellow.png
+  artifactKey: Guid(a1f84e03541df494a9ddd61a53dc0b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PSX_Style_Cars_by_GGBot_(August2023)/Car 03/car3_yellow.png using Guid(a1f84e03541df494a9ddd61a53dc0b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d1bda4fa28b502627235d04a9776c4a') in 0.004606 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001661 seconds.
+Registered in 0.001508 seconds.
 Begin MonoManager ReloadAssembly
-Thread 0x281ec7000 may have been prematurely finalized
+Thread 0x17eb9f000 may have been prematurely finalized
 Symbol file LoadedFromMemory doesn't match image /Users/gcerpa/git/CS583_Group_Project/OurSlender/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image /Users/gcerpa/git/CS583_Group_Project/OurSlender/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.604 seconds
+- Completed reload, in  0.641 seconds
 Domain Reload Profiling:
-	ReloadAssembly (604ms)
-		BeginReloadAssembly (93ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (2ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (44ms)
-		EndReloadAssembly (453ms)
-			LoadAssemblies (33ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (177ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (28ms)
-			SetupLoadedEditorAssemblies (188ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (40ms)
-				ProcessInitializeOnLoadAttributes (128ms)
-				ProcessInitializeOnLoadMethodAttributes (14ms)
-				AfterProcessingInitializeOnLoad (1ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (2ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.35 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3370 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 18 unused Assets / (21.9 KB). Loaded Objects now: 3915.
-Memory consumption went from 152.4 MB to 152.3 MB.
-Total: 2.175459 ms (FindLiveObjects: 0.138000 ms CreateObjectMapping: 0.044500 ms MarkObjects: 1.977416 ms  DeleteObjects: 0.014750 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001854 seconds.
-Begin MonoManager ReloadAssembly
-Thread 0x2821c7000 may have been prematurely finalized
-Symbol file LoadedFromMemory doesn't match image /Users/gcerpa/git/CS583_Group_Project/OurSlender/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image /Users/gcerpa/git/CS583_Group_Project/OurSlender/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.627 seconds
-Domain Reload Profiling:
-	ReloadAssembly (627ms)
+	ReloadAssembly (642ms)
 		BeginReloadAssembly (77ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (30ms)
-		EndReloadAssembly (492ms)
-			LoadAssemblies (31ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (505ms)
+			LoadAssemblies (32ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (189ms)
+			SetupTypeCache (196ms)
 			ReleaseScriptCaches (1ms)
 			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (202ms)
+			SetupLoadedEditorAssemblies (206ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
 				BeforeProcessingInitializeOnLoad (44ms)
-				ProcessInitializeOnLoadAttributes (136ms)
-				ProcessInitializeOnLoadMethodAttributes (15ms)
+				ProcessInitializeOnLoadAttributes (139ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
 				AfterProcessingInitializeOnLoad (1ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (2ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 1.02 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3370 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 18 unused Assets / (22.0 KB). Loaded Objects now: 3918.
-Memory consumption went from 152.4 MB to 152.4 MB.
-Total: 2.509000 ms (FindLiveObjects: 0.136083 ms CreateObjectMapping: 0.043208 ms MarkObjects: 2.308125 ms  DeleteObjects: 0.021167 ms)
+Unloading 18 unused Assets / (22.0 KB). Loaded Objects now: 3913.
+Memory consumption went from 135.8 MB to 135.7 MB.
+Total: 2.566208 ms (FindLiveObjects: 0.159375 ms CreateObjectMapping: 0.051791 ms MarkObjects: 2.336959 ms  DeleteObjects: 0.017458 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001754 seconds.
+Begin MonoManager ReloadAssembly
+Thread 0x17eb8b000 may have been prematurely finalized
+Symbol file LoadedFromMemory doesn't match image /Users/gcerpa/git/CS583_Group_Project/OurSlender/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/gcerpa/git/CS583_Group_Project/OurSlender/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.618 seconds
+Domain Reload Profiling:
+	ReloadAssembly (618ms)
+		BeginReloadAssembly (77ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (484ms)
+			LoadAssemblies (30ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (179ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (206ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (44ms)
+				ProcessInitializeOnLoadAttributes (139ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (3ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3370 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 18 unused Assets / (22.0 KB). Loaded Objects now: 3916.
+Memory consumption went from 135.8 MB to 135.8 MB.
+Total: 2.646000 ms (FindLiveObjects: 0.161792 ms CreateObjectMapping: 0.047291 ms MarkObjects: 2.398500 ms  DeleteObjects: 0.037500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
