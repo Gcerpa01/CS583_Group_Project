@@ -417,9 +417,25 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 607124207}
     - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer7
+      value: 
+      objectReference: {fileID: 1948364562}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
       propertyPath: collectTextObj
       value: 
       objectReference: {fileID: 607124205}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer12
+      value: 
+      objectReference: {fileID: 1022088320}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer34
+      value: 
+      objectReference: {fileID: 1371816999}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer56
+      value: 
+      objectReference: {fileID: 2029849304}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
 --- !u!1 &339640795 stripped
@@ -614,9 +630,25 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 607124207}
     - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer7
+      value: 
+      objectReference: {fileID: 1948364562}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
       propertyPath: collectTextObj
       value: 
       objectReference: {fileID: 607124205}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer12
+      value: 
+      objectReference: {fileID: 1022088320}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer34
+      value: 
+      objectReference: {fileID: 1371816999}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer56
+      value: 
+      objectReference: {fileID: 2029849304}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
 --- !u!1 &501486994 stripped
@@ -792,9 +824,25 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 607124207}
     - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer7
+      value: 
+      objectReference: {fileID: 1948364562}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
       propertyPath: collectTextObj
       value: 
       objectReference: {fileID: 607124205}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer12
+      value: 
+      objectReference: {fileID: 1022088320}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer34
+      value: 
+      objectReference: {fileID: 1371816999}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer56
+      value: 
+      objectReference: {fileID: 2029849304}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
 --- !u!1 &594175830 stripped
@@ -1441,6 +1489,11 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7807538432633192378, guid: 37e22d9b4175042f1a9862cb74423714, type: 3}
+--- !u!82 &1022088320 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 5612738995177164968, guid: d28b3132f9ab42f4193da09c3bf495ee, type: 3}
+  m_PrefabInstance: {fileID: 1358183434}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1053685117 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7406459667439606059, guid: 2b045f3d0a2f549f19925ea113adf73c, type: 3}
@@ -1536,9 +1589,25 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 607124207}
     - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer7
+      value: 
+      objectReference: {fileID: 1948364562}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
       propertyPath: collectTextObj
       value: 
       objectReference: {fileID: 607124205}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer12
+      value: 
+      objectReference: {fileID: 1022088320}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer34
+      value: 
+      objectReference: {fileID: 1371816999}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer56
+      value: 
+      objectReference: {fileID: 2029849304}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
 --- !u!1 &1060972355 stripped
@@ -1874,9 +1943,25 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 607124207}
     - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer7
+      value: 
+      objectReference: {fileID: 1948364562}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
       propertyPath: collectTextObj
       value: 
       objectReference: {fileID: 607124205}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer12
+      value: 
+      objectReference: {fileID: 1022088320}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer34
+      value: 
+      objectReference: {fileID: 1371816999}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer56
+      value: 
+      objectReference: {fileID: 2029849304}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
 --- !u!1 &1301389857 stripped
@@ -1974,6 +2059,11 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 7807538432633192378, guid: 37e22d9b4175042f1a9862cb74423714, type: 3}
+--- !u!82 &1371816999 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 5612738993471676167, guid: d28b3132f9ab42f4193da09c3bf495ee, type: 3}
+  m_PrefabInstance: {fileID: 1358183434}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1393984156
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2145,9 +2235,25 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 607124207}
     - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer7
+      value: 
+      objectReference: {fileID: 1948364562}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
       propertyPath: collectTextObj
       value: 
       objectReference: {fileID: 607124205}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer12
+      value: 
+      objectReference: {fileID: 1022088320}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer34
+      value: 
+      objectReference: {fileID: 1371816999}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer56
+      value: 
+      objectReference: {fileID: 2029849304}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
 --- !u!4 &1501129945 stripped
@@ -2379,9 +2485,25 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 607124207}
     - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer7
+      value: 
+      objectReference: {fileID: 1948364562}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
       propertyPath: collectTextObj
       value: 
       objectReference: {fileID: 607124205}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer12
+      value: 
+      objectReference: {fileID: 1022088320}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer34
+      value: 
+      objectReference: {fileID: 1371816999}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer56
+      value: 
+      objectReference: {fileID: 2029849304}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
 --- !u!1 &1632691252 stripped
@@ -2555,9 +2677,25 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 607124207}
     - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer7
+      value: 
+      objectReference: {fileID: 1948364562}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
       propertyPath: collectTextObj
       value: 
       objectReference: {fileID: 607124205}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer12
+      value: 
+      objectReference: {fileID: 1022088320}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer34
+      value: 
+      objectReference: {fileID: 1371816999}
+    - target: {fileID: 2213366418290088093, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
+      propertyPath: ambianceLayer56
+      value: 
+      objectReference: {fileID: 2029849304}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f601593b7d8c498a9a138ffd03a02e2, type: 3}
 --- !u!1 &1732630785 stripped
@@ -2771,6 +2909,11 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -5741174448488666723, guid: 37e22d9b4175042f1a9862cb74423714, type: 3}
+--- !u!82 &1948364562 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 5612738994544049552, guid: d28b3132f9ab42f4193da09c3bf495ee, type: 3}
+  m_PrefabInstance: {fileID: 1358183434}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2009944601 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7790298315107166982, guid: 2b045f3d0a2f549f19925ea113adf73c, type: 3}
@@ -2809,6 +2952,11 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 855131390749405241, guid: 37e22d9b4175042f1a9862cb74423714, type: 3}
+--- !u!82 &2029849304 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 5612738993584649032, guid: d28b3132f9ab42f4193da09c3bf495ee, type: 3}
+  m_PrefabInstance: {fileID: 1358183434}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2083460863 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 3362032152896916223, guid: 2b045f3d0a2f549f19925ea113adf73c, type: 3}
